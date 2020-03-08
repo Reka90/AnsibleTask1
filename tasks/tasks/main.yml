@@ -1,0 +1,6 @@
+---
+# tasks file for ansible-tasks
+- include: swap.yml
+- include: usercreation.yml
+#- include: java.yml
+#- include: tomcat.yml
